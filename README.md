@@ -31,3 +31,4 @@
 
 ## Extra Notes:
 * For the first run of the parts I used standard PLA (I had it loaded in my Monoprice Mini Delta).  You can see that the grey part above is warping from the sun.  I would recommend not using PLA and use Nylon or PETG instead.
+* You will notice that the parts in the image do not have the plastic wire tie in the center to hold the wire in the slot.  This important feature was added aftwards when my wire kept popping out of the slot.  I would highly recommend securing the wire in the slot.
