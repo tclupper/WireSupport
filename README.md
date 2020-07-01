@@ -4,7 +4,8 @@
 * License: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
 # Key Safety Comments
-* Use these desgins at your own risk.  There is no guarantee that they will work for you.
+* Use these designs at your own risk.  There is no guarantee that they will work for you.
+* Modify the OpenScad code to create a part that suites your owns needs.
 
 ## Electric Fence Wire support (wood attached)
 
