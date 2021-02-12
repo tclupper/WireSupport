@@ -17,8 +17,8 @@
 * This is attached to wood using a standard #10 wood screw
 * The wire is held in the slot using [standard 3/16 inch wide plastic cable ties {0.053 inch thick}](https://www.harborfreight.com/4-in-white-cable-ties-100-pk-60257.html)
 
-![Image of wire support](https://github.com/tclupper/WireSupport/blob/master/WireSupport1.jpg)
-![Image of wire support](https://github.com/tclupper/WireSupport/blob/master/WireSupport2.jpg)
+![Image of wire support](/WireSupport1.jpg)
+![Image of wire support](/WireSupport2.jpg)
 
 
 ## Electric Fence Wire support [attaches to standard metal fence post](https://www.homedepot.com/p/Everbilt-3-in-x-3-in-x-6-ft-Green-Metal-Heavy-Duty-Fence-U-Post-901156EB/205960884) 
@@ -29,8 +29,8 @@
 * This is attached to post using a standard 1-1/4 inch long #10 machine screw and nut.  The nut will be held in place by the back of the post.
 * The wire is held in the slot using [standard 3/16 inch wide plastic cable ties {0.053 inch thick}](https://www.harborfreight.com/4-in-white-cable-ties-100-pk-60257.html)
     
-![Image of wire support](https://github.com/tclupper/WireSupport/blob/master/WireSupport3.jpg)
-![Image of wire support](https://github.com/tclupper/WireSupport/blob/master/WireSupport4.jpg)
+![Image of wire support](/WireSupport3.jpg)
+![Image of wire support](/WireSupport4.jpg)
 
 
 ## Extra Notes:
